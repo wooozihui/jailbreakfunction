@@ -10,7 +10,8 @@
 - School of Computer Science and Technology, Xidian University
 
 ## Overview
-![overview](https://github.com/user-attachments/assets/2b719632-37af-494e-9f0a-13e9a1dc62c7)
+![截屏2024-07-22 23 40 38](https://github.com/user-attachments/assets/e55e2fab-9383-47d2-b29f-ea3e7deef3f3)
+
 
 ## Abstract
 Large language models (LLMs) have demonstrated remarkable capabilities, but their power comes with significant security considerations. While extensive research has been conducted on the safety of LLMs in chat mode, the security implications of their function calling feature have been largely overlooked. This paper uncovers a critical vulnerability in the function calling process of LLMs, introducing a novel "jailbreak function" attack method that exploits alignment discrepancies, user coercion, and the absence of rigorous safety filters. Our empirical study, conducted on six state-of-the-art LLMs including GPT-4o, Claude-3.5-Sonnet, and Gemini-1.5-pro, reveals an alarming average success rate of over 90% for this attack. We provide a comprehensive analysis of why function calls are susceptible to such attacks and propose defensive strategies, including the use of defensive prompts. Our findings highlight the urgent need for enhanced security measures in the function calling capabilities of LLMs, contributing to the field of AI safety by identifying a previously unexplored risk, designing an effective attack method, and suggesting practical defensive measures.
