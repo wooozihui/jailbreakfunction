@@ -44,4 +44,4 @@ This paper identifies a critical yet previously overlooked security vulnerabilit
    ```bash
    git clone https://github.com/wooozihui/jailbreakfunction
 2. Replace the default API key with yours in `attack.py`.
-3. Run the attack using `python attack.py`.
+3. Run the attack using `python attack.py --target_model model_name`.
