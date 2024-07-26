@@ -1,4 +1,4 @@
-# The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models
+# The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models [arxiv](https://arxiv.org/pdf/2407.17915v1)
 
 ## Authors
 - Zihui Wu (zihui@stu.xidian.edu.cn)
