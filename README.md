@@ -1,5 +1,9 @@
 # The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models ([arxiv link](https://arxiv.org/pdf/2407.17915v1))
 
+## Updates
+
+- 2024-8-11 🚀🚀🚀 Our work has been featured in [MarkTechPost](https://www.marktechpost.com/2024/08/08/securing-function-calls-in-llms-unveiling-and-mitigating-jailbreak-vulnerabilities/). Thank you for your interest.
+
 ## Authors
 - Zihui Wu (zihui@stu.xidian.edu.cn)
 - Haichang Gao (hchgao@xidian.edu.cn)
