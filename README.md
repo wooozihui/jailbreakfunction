@@ -2,7 +2,7 @@
 
 ## Updates
 
-- 2024-8-8 🚀🚀🚀 Our work is featured in [MarkTechPost](https://www.marktechpost.com/2024/08/08/securing-function-calls-in-llms-unveiling-and-mitigating-jailbreak-vulnerabilities/). Thanks for interest.
+- 2024-8-8 🚀🚀🚀 Our work is featured in [MarkTechPost](https://www.marktechpost.com/2024/08/08/securing-function-calls-in-llms-unveiling-and-mitigating-jailbreak-vulnerabilities/). Thanks for attention.
 
 ## Authors
 - Zihui Wu (zihui@stu.xidian.edu.cn)
