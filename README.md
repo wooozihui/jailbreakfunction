@@ -50,5 +50,5 @@ This paper identifies a critical yet previously overlooked security vulnerabilit
 2. Replace the default API key with yours in `attack.py`.
 3. Run the attack using `python attack.py --target_model model_name`.
 
-## ## Appreciate Your Support! ⭐
+## Appreciate Your Support! ⭐
 If you find this project helpful, please give it a star! 
