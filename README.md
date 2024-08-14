@@ -2,7 +2,7 @@
 
 ## Updates
 
-- 2024-8-14 The variants [[1]](https://www.reddit.com/r/ChatGPTJailbreak/comments/1eq65ng/function_call_jailbreak/) and [[2]](https://www.reddit.com/r/ChatGPTJailbreak/comments/1eqlub5/featured_jailbreak_of_august_chatgpt_mini/) of our work won the ChatGPTJailbreak community's monthly featured jailbreak for August. Congratulations to users yellowfever92 and OnePrestigious2857.
+- 2024-8-14 The variants [[1]](https://www.reddit.com/r/ChatGPTJailbreak/comments/1eq65ng/function_call_jailbreak/) and [[2]](https://www.reddit.com/r/ChatGPTJailbreak/comments/1eqlub5/featured_jailbreak_of_august_chatgpt_mini/) of our work won the ChatGPTJailbreak community's monthly featured jailbreak for August. Congratulations to users yell0wfever92 and OnePrestigious2857.
 - 2024-8-8 🚀🚀🚀 Our work is featured in [MarkTechPost](https://www.marktechpost.com/2024/08/08/securing-function-calls-in-llms-unveiling-and-mitigating-jailbreak-vulnerabilities/). Thanks for attention.
 
 ## Authors
