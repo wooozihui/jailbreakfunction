@@ -2,7 +2,7 @@
 
 ## Updates
 
-- 2024-8-17 We have confirmed that this attack is effective against GPTs. However, to safeguard AI security, we have decided not to make the GPTs public.
+- 2024-8-17 We have confirmed that this attack is effective against GPTs. However, to safeguard AI security, we have decided not to make the jailbreaked GPTs public.
 
 <div align="center">
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/3036cd18-07e2-4b5f-a854-bd51eaf9081a">
