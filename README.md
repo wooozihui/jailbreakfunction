@@ -2,6 +2,12 @@
 
 ## Updates
 
+- 2024-8-17 We have confirmed that this attack is effective against GPTs. However, to safeguard AI security, we have decided not to disclose the configuration code of GPTs.
+
+<div align="center">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/3036cd18-07e2-4b5f-a854-bd51eaf9081a">
+</div>
+
 - 2024-8-14 🎉 The variants [[1]](https://www.reddit.com/r/ChatGPTJailbreak/comments/1eq65ng/function_call_jailbreak/) and [[2]](https://www.reddit.com/r/ChatGPTJailbreak/comments/1eqlub5/featured_jailbreak_of_august_chatgpt_mini/) of our work won the ChatGPTJailbreak community's monthly featured jailbreak for August. Congratulations to users yell0wfever92 and OnePrestigious2857.
 - 2024-8-8 🚀🚀🚀 Our work is featured in [MarkTechPost](https://www.marktechpost.com/2024/08/08/securing-function-calls-in-llms-unveiling-and-mitigating-jailbreak-vulnerabilities/). Thanks for attention.
 
