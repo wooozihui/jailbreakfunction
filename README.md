@@ -5,7 +5,7 @@
 - 2024-8-17 ⚠️We have confirmed that this attack is effective against GPTs (By configuring the action<sup>[[1]](https://platform.openai.com/docs/actions/introduction)</sup>, a feature based on function calling). A jailbreaked GPTs removes the barrier to jailbreaking for non-technical users, significantly increasing the risk of AI misuse. Therefore, we have decided not to make the jailbreaked GPTs public.
 
 <div align="center">
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/3036cd18-07e2-4b5f-a854-bd51eaf9081a">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/8dc90bf3-9767-43d8-9111-763846454cdd">
 </div>
 
 - 2024-8-14 🎉 The variants [[1]](https://www.reddit.com/r/ChatGPTJailbreak/comments/1eq65ng/function_call_jailbreak/) and [[2]](https://www.reddit.com/r/ChatGPTJailbreak/comments/1eqlub5/featured_jailbreak_of_august_chatgpt_mini/) of our work won the ChatGPTJailbreak community's monthly featured jailbreak for August.
