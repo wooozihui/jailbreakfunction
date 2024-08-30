@@ -1,4 +1,4 @@
-# The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models ([arxiv link](https://arxiv.org/pdf/2407.17915v2))
+# The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models ([arxiv link](https://arxiv.org/pdf/2407.17915v3))
 
 ## Updates
 
