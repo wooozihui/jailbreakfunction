@@ -2,7 +2,7 @@
 
 ## Updates
 
-- 2024-11-30 🎉 This paper has been accepted by COLING 2025.
+- 2024-11-30 🎉 This work has been accepted by COLING 2025.
 
 - 2024-8-17 ⚠️We have confirmed that this attack is effective against GPTs (By configuring the action<sup>[[1]](https://platform.openai.com/docs/actions/introduction)</sup>, a feature based on function calling). A jailbreaked GPTs removes the barrier to jailbreaking for non-technical users, significantly increasing the risk of AI misuse. Therefore, we have decided not to make the jailbreaked GPTs public.
 
